@@ -1,7 +1,7 @@
 #Packages
 
 
-packages.<-list("sf","raster","rnaturalearth","rnaturalearthdata")
+packages.<-list("sf","raster","rnaturalearth","rnaturalearthdata","geosphere")
 
 
 #Load all packages
